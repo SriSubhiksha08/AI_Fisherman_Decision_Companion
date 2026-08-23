@@ -1,0 +1,9 @@
+zone_id,zone_name,distance_from_shore_km,common_species,typical_catch_kg,risk_level,best_time
+Z01,Zone A,10,Sardine,120,Low,Early Morning
+Z02,Zone B,20,Mackerel,150,Medium,Early Morning
+Z03,Zone C,35,Tuna,180,Medium,Morning
+Z04,Zone D,50,Squid,100,High,Morning
+Z05,Zone E,15,Prawn,90,Low,Early Morning
+Z06,Zone F,30,Anchovy,140,Medium,Evening
+Z07,Zone G,45,Tuna,200,High,Morning
+Z08,Zone H,25,Mackerel,130,Medium,Early Morning
