@@ -1,0 +1,9 @@
+fish_type,market,price_per_kg,demand_level,price_trend
+Sardine,Local Market,220,High,Rising
+Mackerel,Local Market,280,Medium,Stable
+Tuna,Wholesale Market,450,High,Rising
+Squid,Local Market,350,Medium,Stable
+Prawn,Wholesale Market,500,High,Rising
+Anchovy,Local Market,200,Medium,Stable
+Crab,Wholesale Market,550,High,Rising
+Pomfret,Local Market,600,High,Rising
