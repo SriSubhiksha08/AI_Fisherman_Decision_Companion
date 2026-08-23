@@ -1,0 +1,11 @@
+sea_condition,official_warning,wind_speed_kmh,boat_type,distance_from_shore_km,previous_catch_kg,previous_success_rate,fish_price_per_kg,market_demand,trip_outcome
+Calm,No Warning,15,Small Fishing Boat,10,120,75,250,High,Suitable
+Moderate,Advisory,25,Motorized Boat,20,100,65,220,Medium,Suitable
+Rough,Warning,45,Small Fishing Boat,35,60,40,280,High,Avoid
+Calm,No Warning,18,Motorized Boat,25,150,80,300,High,Suitable
+Very Rough,Severe Warning,65,Small Fishing Boat,15,30,20,250,Medium,Avoid
+Moderate,No Warning,22,Mechanized Boat,40,180,70,200,Medium,Suitable
+Rough,Advisory,38,Motorized Boat,30,90,50,320,High,Reassess
+Calm,No Warning,12,Small Fishing Boat,8,110,72,270,High,Suitable
+Moderate,Advisory,30,Small Fishing Boat,18,80,55,240,Medium,Reassess
+Rough,Warning,50,Mechanized Boat,50,130,45,350,High,Avoid
